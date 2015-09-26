@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btnGuardar">#FF00AA</color>
+    <color name="btnCancelar">#e0ff66</color>
+    <color name="brnSalir">#ff1d2e</color>
+</resources>
